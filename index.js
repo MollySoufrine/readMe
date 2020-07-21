@@ -29,7 +29,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "describe",
+    name: "description",
     message: "Can you please give a breif description of this project?",
   },
   {
